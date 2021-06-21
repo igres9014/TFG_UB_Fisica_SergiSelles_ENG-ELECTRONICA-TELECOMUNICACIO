@@ -20,7 +20,9 @@ Nano_detector:
   - Download to ./model folder the model ssd_mobilenet_v1_coco_trt.pb from gdrive link: https://drive.google.com/file/d/1tz8qohnGKe1kcufhIt6EX6_dc18cm_he/view?usp=sharing
   - Call the script as the example provided in the code.
 
-Example of real-time streaming output:
+
+
+Sample of real-time streaming output:
 
 ![image](https://user-images.githubusercontent.com/72890882/122738798-9a39e900-d282-11eb-8734-b4c0e56a8017.png)
 
