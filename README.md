@@ -18,3 +18,8 @@ Nano_detector:
   - Complete installation of all remain libraries in Nano_detector.py
   - Download to ./model folder the model ssd_mobilenet_v1_coco_trt.pb from gdrive link: https://drive.google.com/file/d/1tz8qohnGKe1kcufhIt6EX6_dc18cm_he/view?usp=sharing
   - Call the script as the example provided in the code.
+
+Example of output:
+
+![image](https://user-images.githubusercontent.com/72890882/122737506-65796200-d281-11eb-94c4-79c5d35c0be2.png)
+![image](https://user-images.githubusercontent.com/72890882/122737767-aec9b180-d281-11eb-8dfc-6b0c775d4ce8.png)
